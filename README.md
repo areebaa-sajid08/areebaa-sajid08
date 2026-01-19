@@ -4,7 +4,7 @@
 <h3 align="center">I’m a passionate beginner exploring the world of web development. I love learning new things, improving my skills, and turning small ideas into code.</h3>
 <img align = "right" alt = "coading" width = "450" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6qmYR_LYRC6ehBy2NgM_lxC5sB9GK8uqWw&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=areebaa-sajid08&label=Profile%20views&color=0e75b6&style=flat" alt="areebaa-sajid08" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=areebaa-sajid08&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)" alt="areebaa-sajid08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areebaa-sajid08" alt="areebaa-sajid08" /></a> </p>
 
