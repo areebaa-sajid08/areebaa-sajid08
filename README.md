@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <h1 align="center">Hi 👋, I'm Areeba Sajid</h1>
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 <h3 align="center">I’m a passionate beginner exploring the world of web development. I love learning new things, improving my skills, and turning small ideas into code.</h3>
 <img align = "right" alt = "coading" width = "450" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCeZ1aUWWs85tHxctz_4wTAcCKYV48v5EAw&s">
