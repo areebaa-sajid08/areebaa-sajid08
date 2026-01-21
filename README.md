@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Areeba Sajid</h1>
 
 <h3 align="center">I’m a passionate beginner exploring the world of web development. I love learning new things, improving my skills, and turning small ideas into code.</h3>
-<img align = "right" alt = "coading" width = "450" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCeZ1aUWWs85tHxctz_4wTAcCKYV48v5EAw&s">
+<img align = "right" alt = "coading" width = "450" src = "https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybjZ6czVkOGl3dGx1NWI3c2I4dzE4eWUyNzBhdzY0d3A1NWxiMWVsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areebaa-sajid08&label=Profile%20views&color=0e75b6&style=flat" alt="areebaa-sajid08" /> </p>
 
