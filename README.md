@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aribasajid973@gmail.com**
 
-- ⚡ Fun fact **I love Web Fundamentals for coading.**
+- ⚡ Fun fact **I love Web Fundamentals for coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
